@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "682397bb1fb90c188ce8b110",
+  "owner": "fpxmgqfqx",
+  "repo": "page-a7cb5e5e99e5dd1f6ce50686",
+  "title": "icola",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7cb5e5e99e5dd1f6ce50686",
+      "a": "icola",
+      "b": "2027官方最新地址导航",
+      "entity": "icola",
+      "brand": "icola",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e07479da766906f59e0f7332d85aba32652123146fc22ed201967ea1e1bc2e2f",
+      "content": {
+        "primary_entity": "icola",
+        "keyword1": "icola",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，依文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "设备与客户端搭配",
+          "AI_CLOSING_TITLE": "选好套餐，顺畅连接",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选适合方案，按客户端文档配置订阅即可使用。",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备在线。旗舰版含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版配 VIP 专属高带宽节点与企业定制路由。按年付费可享优惠价格。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备适配到订阅周期，三方面帮你快速定位。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 支持 3 台，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供原生流媒体解锁和专线节点，适合对速度与画质有要求的场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付基础版 ¥150 每年，旗舰版 ¥350 每年，团队版 ¥850 每年。",
+          "AI_FEATURE_TITLE_1": "套餐对比",
+          "AI_FEATURE_TITLE_2": "设备与场景",
+          "AI_FEATURE_TITLE_3": "付费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "icola 提供基础版、旗舰版与团队版三档海外加速订阅，覆盖不同流量与设备需求。旗舰版侧重游戏加速与流媒体解锁，团队版面向多设备与企业路由。按月或按年灵活付费，配合客户端文档即可完成订阅配置。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多种设备场景",
+          "AI_HIGHLIGHT_1": "月付 100GB 起，满足日常使用",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付最低 ¥150 每年",
+          "AI_PLANS_INTRO": "三档套餐按流量、设备数与节点类型区分，年付更省。",
+          "AI_PLANS_TITLE": "选择合适套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和设备台数，在基础版、旗舰版、团队版中挑选一档。",
+          "AI_STEP_TEXT_2": "确认你的系统与设备是否在套餐支持的范围内，查看对应客户端文档。",
+          "AI_STEP_TEXT_3": "按照客户端提供的订阅导入说明完成配置，即可开始连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "icola 海外加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版流量适合个人日常浏览与轻量视频，旗舰版提供更多流量和设备数，并针对流媒体和游戏做了线路优化。团队版面向多设备并发场景，可与企业路由配置配合使用。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。如果家中手机、电脑、平板同时在线，建议至少选择旗舰版，避免频繁切换设备。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更划算。基础版按年付 150 元，旗舰版按年付 350 元，团队版按年付 850 元。长期使用建议直接选择年付方案。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中添加订阅链接或手动导入节点配置，保存后选择节点连接即可。不同客户端操作略有差异，请参考对应客户端的使用说明。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟要求较高的在线游戏。基础版提供普通线路节点池，团队版提供 VIP 高带宽节点，可按实际用途选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版在流量与场景上有什么区别？",
+          "AI_FAQ_QUESTION_2": "套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "订阅链接导入客户端后怎么开始使用？",
+          "AI_FAQ_QUESTION_5": "玩游戏选哪个套餐延迟更低？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fengzhenyul.cn",
+    "host": "fengzhenyul.cn"
+  },
+  "file_hashes": {
+    "index.html": "c32bf8b909674a09d51e637dc94587aeb53fdab32e51dda188be30802ad8e00e",
+    "sitemap.xml": "abc2247c592c62b5e829e5a4c6427fe654b4551b6629c8121be59237f6f19a65",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1654995539ad5db327638cc0735c96011d968e704950cfae3f0d82af297784d0",
+    "robots.txt": "82c4ede14d4e628d876f91e10bf29ca344c617f5fc4cb38e5a00e93ea8d46853",
+    "322c6943995a7bf07c84d614e410f736.txt": "a25d6f60f74c3bf9fc21a0def21895adc78b3f70d540e461cf44145d159e75dd"
+  },
+  "revision": "b6f2cb9ecc38c1d194c95b296a8937b02a0239cca2cc572c5a8cfe93b12e8d12"
+}
